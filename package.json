@@ -1,0 +1,22 @@
+{
+  "name": "webscraper",
+  "version": "0.1.0",
+  "description": "Website Scraper Module",
+  "main": "./index.js",
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qorbani/webscraper.git"
+  },
+  "keywords": ["scraper", "jquery", "htmlparser"],
+  "author": "Reza Qorbani <reza@qorbani.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "~0.12.0"
+  }
+}
